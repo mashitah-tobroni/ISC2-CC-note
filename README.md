@@ -1,4 +1,3 @@
-
 # ISC2-CC-note
 
 This is my personal ISC2 CC self study note and free resources i learned from.
@@ -21,6 +20,16 @@ This is my personal ISC2 CC self study note and free resources i learned from.
 * [Module 3: Understand Disaster Recovery (DR)](https://linktodocumentation)
 
 3. Chapter 3: Access Control Concepts
-4. Chapter 4: Network Security
-5. Chapter 5: Security Operations
+* [Module 1: Understand Access  Control  Concepts](https://linktodocumentation)
+* [Module 2: Understand  Physical  Access  Controls](https://linktodocumentation)
+* [Module 3: Understand  Logical  Access  Controls](https://linktodocumentation)
 
+4. Chapter 4: Network Security
+* [Module 1: Understand Computer Networking](https://linktodocumentation)
+* [Module 3: Understand Network Security Infrastructure](https://linktodocumentation)
+
+5. Chapter 5: Security Operations
+* [Module 1: Understand Data Security](https://linktodocumentation)
+* [Module 2: Understand System Hardening](https://linktodocumentation)
+* [Module 3: Understand Best Practice Security Policies](https://linktodocumentation)
+* [Module 4: Understand Security Awareness Training](https://linktodocumentation)

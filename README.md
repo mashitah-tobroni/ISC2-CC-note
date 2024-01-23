@@ -9,7 +9,7 @@ This is my personal ISC2 CC self study note and free resources i learned from.
 
 1. Chapter 1: Security Principles
 
-* [Module 1: Understand the Security Concepts of Information Assurance]([https://linktodocumentation](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%201/module%201.md))
+* [Module 1: Understand the Security Concepts of Information Assurance](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%201/module%201.md)
 * [Module 2: Understand the Risk Management Process](https://linktodocumentation)
 * [Module 3: Understand Controls](https://linktodocumentation)
 * [Module 4: Understand Governance Elements and Processes](https://linktodocumentation)

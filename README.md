@@ -15,9 +15,9 @@ This is my personal ISC2 CC self study note and free resources i learned from.
 * [Module 4: Understand Governance Elements and Processes](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%201/module%204.md)
 
 2. Chapter 2: Incident Response, Business Continuity, Disaster Recovery
-* [Module 1: Understand Incident Response](https://linktodocumentation)
-* [Module 2: Understand Business Continuity](https://linktodocumentation)
-* [Module 3: Understand Disaster Recovery (DR)](https://linktodocumentation)
+* [Module 1: Understand Incident Response](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%202/module%201.md)
+* [Module 2: Understand Business Continuity](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%202/module%202.md)
+* [Module 3: Understand Disaster Recovery (DR)](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%202/module%203.md)
 
 3. Chapter 3: Access Control Concepts
 * [Module 1: Understand Access  Control  Concepts](https://linktodocumentation)

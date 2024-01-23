@@ -29,7 +29,7 @@ This is my personal ISC2 CC self study note and free resources i learned from.
 * [Module 3: Understand Network Security Infrastructure](https://linktodocumentation)
 
 5. Chapter 5: Security Operations
-* [Module 1: Understand Data Security](https://linktodocumentation)
-* [Module 2: Understand System Hardening](https://linktodocumentation)
-* [Module 3: Understand Best Practice Security Policies](https://linktodocumentation)
-* [Module 4: Understand Security Awareness Training](https://linktodocumentation)
+* [Module 1: Understand Data Security](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%205/module%201.md)
+* [Module 2: Understand System Hardening](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%205/module%202.md)
+* [Module 3: Understand Best Practice Security Policies](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%205/module%203.md)
+* [Module 4: Understand Security Awareness Training](https://github.com/mashitah-tobroni/ISC2-CC-note/blob/main/chapter%205/module%204.md)
